@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="this_quiz_will_check_your_knowledge_of_cities">This quiz will check your knowledge of cities</string>
+    <string name="please_write_your_name_below">Please write your name below:</string>
+    <string name="name">Name</string>
+    <string name="i_really_want_to_play">I really want to play :)</string>
+    <string name="new_york">New York</string>
+    <string name="chicago">Chicago</string>
+    <string name="london">London</string>
+    <string name="berlin">Berlin</string>
+    <string name="moscow">Moscow</string>
+    <string name="prague">Prague</string>
+    <string name="shanghai">Shanghai</string>
+    <string name="warsaw">Warsaw</string>
+    <string name="geneve">Geneve</string>
+    <string name="check_me">Check Me!</string>
+</resources>
